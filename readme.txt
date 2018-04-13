@@ -1,8 +1,10 @@
-Git is a distributed version control system.
+﻿Git is a distributed version control system.
 Git is free software under the CPL.
 Git has a mutable index called stage.
 Creating a new branch is quick and simple.
 
-Test branch。
+Test branch.
 
-modify bug。
+modify bug.
+
+origin/dev.
